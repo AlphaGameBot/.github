@@ -29,3 +29,5 @@
     </tr>
   </tbody>
 </table>
+
+**New**: *AlphaGameBot Nightly* is now a thing!  See the cool stuff that I'e been working on and try it for yourself!  Learn more [here](https://alphagame.dev/alphagamebot/nightly)!
