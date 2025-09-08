@@ -2,7 +2,7 @@
 <p align="center">A Discord bot that's free and (hopefully) doesn't suck.</p>
 
 ## Links
-* [AlphaGameBot Website](https://alphagame.dev/alphagamebot)
+* [AlphaGameBot Website](https://alphagamebot.com/)
 * [AlphaGameBot GitHub Repository](https://github.com/AlphaGameBot/AlphaGameBot)
 * [AlphaGameBot WebUI GitHub Repository](https://github.com/AlphaGameBot/WebUI)
 
@@ -29,5 +29,3 @@
     </tr>
   </tbody>
 </table>
-
-**New**: *AlphaGameBot Nightly* is now a thing!  See the cool stuff that I'e been working on and try it for yourself!  Learn more [here](https://alphagame.dev/alphagamebot/nightly)!
